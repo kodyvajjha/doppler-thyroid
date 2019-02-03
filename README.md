@@ -11,4 +11,4 @@ The main steps in the analysis was Sensitivity and Specificity analysis of the v
 
 All of the analysis was carried out in R. The code is given in the file `MS_code.R` 
 
-It was found that the variable Resistive Index (RI) is quite a powerful indicator of malignancy. 
+It was found that the variable Resistive Index (RI) is quite a powerful indicator of malignancy. But is it significant?
